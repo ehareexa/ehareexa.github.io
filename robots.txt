@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehareexa.github.io/sitemap_index.ehareexa
